@@ -1,0 +1,8 @@
+{
+  "title": "Custom Patient Encounter",
+  "name": "custom_patient_encounter",
+  "module": "Srapp",
+  "doctype": "Page",
+  "standard": "Yes"
+}
+
